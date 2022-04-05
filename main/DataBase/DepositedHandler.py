@@ -1,0 +1,2 @@
+class DepositedHandler:
+    pass
